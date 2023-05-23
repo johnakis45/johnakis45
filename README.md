@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate web developer from Greece </h3>
 
 <div align="center">
-
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+<p>
+-🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
 
 - 🌱 I’m currently Working on Mobile App(React-Native)
 
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **saurabhchavan052@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+</p>
 <br/>
 </div>
 
