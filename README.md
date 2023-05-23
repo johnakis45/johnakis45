@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate web developer from Greece </h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="href="https://giphy.com/gifs/manny-manny404-mannynotfound-7J4P7cUur2DlErijp3">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://giphy.com/gifs/manny-manny404-mannynotfound-7J4P7cUur2DlErijp3">
 </a>
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
