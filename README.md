@@ -15,15 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm John </a></h1>
-<h3 align="center">A passionate web developer from Greece </h3>
+<h3 align="center">A passionate developer from Greece </h3>
 
 <div align="center">
-	
-🌱 I’m currently Working on a website application
-	
-🤝 I’m available for freelancing.
-	
-🌱 I’m currently learning Angular
+		
+🤝 I’m available for freelancing.	
 	
 📫 How to reach me **johnakis45@gmail.com**
 	
