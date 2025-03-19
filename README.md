@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm John </a></h1>
 <h3 align="center">A passionate developer from Greece </h3>
 
-<div align="center">
-		
-🤝 I’m available for freelancing.	
+<div align="center">	
 	
 📫 How to reach me **johnakis45@gmail.com**
 	
