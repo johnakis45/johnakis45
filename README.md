@@ -33,4 +33,10 @@ Here are some ideas to get you started:
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 </div>
 
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnakis45theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnakis45&theme=dark&layout=compact" />
+</a>
+
+
 </p>
