@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </div>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnakis45theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnakis45&theme=dark&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnakis45&theme=dark&layout=compact" />
 </a>
 
