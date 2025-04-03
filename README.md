@@ -14,6 +14,7 @@
 - 👨‍💻 Currently working as a **Software Engineering Intern** at **Epignosis**.
 - 🧠 Learning how to build games from the ground up — engines, graphics, the whole deal.
 - 🎮 Hardcore gamer at heart. Love building what I love playing.
+- 💪 I know I haven’t built a ton *yet*, but I’m putting in the work and giving it my best every day.
 - 🌱 Always up for exploring new technologies, tools, and creative coding challenges.
 
 ---
