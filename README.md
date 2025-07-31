@@ -1,7 +1,7 @@
 <!-- README.md for GitHub profile -->
 
 <h1 align="center">Hey there 👋, I'm John!</h1>
-<h3 align="center">💻 CS Graduate | 🛠️ Intern Software Engineer @ Epignosis | 🎮 Aspiring Game Developer</h3>
+<h3 align="center">💻 CS Graduate | 🛠️ Junior Software Engineer @ Epignosis | 🎮 Aspiring Game Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" />
