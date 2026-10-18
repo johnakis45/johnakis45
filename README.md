@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm John Davanos</h1>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- Junior Software Engineer at **Epignosis**  
-- Focused on backend systems, infrastructure, and scalable software design  
-- Currently exploring **AWS** and cloud-native development and building from the ground-up a C++ video game.
 
 ---
 
